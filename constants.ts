@@ -20,7 +20,7 @@ export const FEATURED_PROJECTS: Project[] = [
     title: "Bee2Bee Asia",
     description: "Independently designed, developed, and deployed a B2B full-stack web application to handle large-scale exhibitions, including the website, Exhibitor, Buyer, and Admin Dashboards. The project involved configuration, deployment, integration of payment gateway, and successful hosting on AWS.",
     tags: ["React", "Next.js", "Typescript", "Prisma", "Supabase", "AWS"],
-    image: "https://s3.ap-south-1.amazonaws.com/expo-template/WIRC-REF-2025-26/assets/imgs/ICAI%20logo.png",
+    image: "https://picsum.photos/800/600?random=1",
     link: "#",
     type: "fullstack",
     featured: true
