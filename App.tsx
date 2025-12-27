@@ -25,7 +25,7 @@ const IntroOverlay = () => {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.1 }}
-        className="text-white text-5xl font-bold border-b border-b-dotted uppercase tracking-widest font-space"
+        className="text-white text-6xl font-bold  uppercase tracking-widest font-space"
       >
         Arman Shekh
       </motion.div>
