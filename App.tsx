@@ -59,7 +59,7 @@ function App() {
     <div className="min-h-screen bg-white dark:bg-neutral-950 text-neutral-900 dark:text-neutral-100 selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black overflow-x-hidden relative transition-colors duration-0">
       
       {/* Premium Addons */}
-      {/* <CustomCursor /> */}
+      <CustomCursor /> 
       <div className="bg-noise" />
       <IntroOverlay />
 
